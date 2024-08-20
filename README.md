@@ -20,24 +20,23 @@ Shutdown: Politely ends the session when you're done.
 Installation
 Clone the repository:
 
-bash
+
 Copy code
 git clone https://github.com/YohannesAdmassie/EmpathAI-Assistant.git
 Navigate to the project directory:
 
-bash
+
 Copy code
 cd EmpathAI-Assistant
 Install the required dependencies:
 
-bash
+
 Copy code
 pip install -r requirements.txt
 Run the application:
 
-bash
-Copy code
-python main.py
+\
+
 Usage
 EmpathAI is designed to be simple and intuitive. Just type in your requests or questions, and the assistant will respond with relevant information, open websites, or provide entertainment.
 
