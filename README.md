@@ -19,13 +19,15 @@ Google Search: Allows quick searches directly through the assistant.
 7. Health & Fitness Tips: Offers helpful advice to maintain a healthy lifestyle.
 8. Emotional Support: Recognizes and responds to your mood with thoughtful responses.
 9. Shutdown: Politely ends the session when you're done.
+
+      
   Installation
-Clone the repository: https://github.com/YohannesAdmassie/EmpathAI-Assistant.gi
-Navigate to the project directory
-Install the required dependencies:requirements.txt
-Run the application: python main.py
-  Usage:
-Press the "Ask" button to activate the assistant, then speak your request. EmpathAI will listen, process your query, and respond with the appropriate information or action. It's designed to be simple, intuitive, and user-friendly.
+  Clone the repository: https://github.com/YohannesAdmassie/EmpathAI-Assistant.gi
+  Navigate to the project directory
+  Install the required dependencies:requirements.txt
+  Run the application: python main.py
+    Usage:
+  Press the "Ask" button to activate the assistant, then speak your request. EmpathAI will listen, process your query, and respond with the appropriate information or action. It's designed to be simple, intuitive, and user-friendly.
 
 
 
