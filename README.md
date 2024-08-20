@@ -22,10 +22,18 @@ Google Search: Allows quick searches directly through the assistant.
 
       
   Installation
+  
   Clone the repository: https://github.com/YohannesAdmassie/EmpathAI-Assistant.gi
+  
   Navigate to the project directory
+  
   Install the required dependencies:requirements.txt
+  
   Run the application: python main.py
+  
+    
+    
+    
     Usage:
   Press the "Ask" button to activate the assistant, then speak your request. EmpathAI will listen, process your query, and respond with the appropriate information or action. It's designed to be simple, intuitive, and user-friendly.
 
